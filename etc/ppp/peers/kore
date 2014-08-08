@@ -7,9 +7,8 @@ defaultroute
 usepeerdns
 holdoff 2
 connect-delay 2000
-#user 8128931809@vzw3g.com
-#user 8125495898@vzw3g.com
-#password vzw
+#user
+#password
 show-password
 persist
 maxfail 0
